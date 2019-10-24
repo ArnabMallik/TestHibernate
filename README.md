@@ -13,3 +13,5 @@ session.get(X.class, id)
 @ManyToOne(MappedBy="")
 @ManyToMany(MappedBy="")
 @Cacheable
+
+Testing
